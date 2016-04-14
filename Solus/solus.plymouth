@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=Solus
+Description=A Plymouth theme for Solus
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/Solus
+ScriptFile=/usr/share/plymouth/themes/Solus/solus.script
