@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=Solus-Orange
+Description=A Plymouth theme for Solus
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/solus-orange
+ScriptFile=/usr/share/plymouth/themes/solus-orange/solus-orange.script
