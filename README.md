@@ -1,4 +1,4 @@
-**Solus theme for Plymouth**
+#**Solus theme for Plymouth**
 
 This theme is a modified version of [Flat Splash](http://opendesktop.org/content/show.php/Flat+Splash?content=171240).
 
